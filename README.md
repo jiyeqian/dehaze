@@ -1,0 +1,1 @@
+Using haze removal code from [https://github.com/joyeecheung/dark-channel-prior-dehazing](https://github.com/joyeecheung/dark-channel-prior-dehazing) for "Single Image Haze Removal Using Dark Channel Prior".
